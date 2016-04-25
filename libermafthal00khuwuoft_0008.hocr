@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libermafthal00khuwuoft_0008.png"; bbox 0 0 1954 3231; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 505 438 829 919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 505 438 829 919">
+     <span class='ocr_line' id='line_1_1' title="bbox 505 438 694 555; baseline -0.085 1"><span class='ocrx_word' id='word_1_1' title='bbox 505 438 694 555; x_wconf 72' lang='grc' dir='ltr'><strong>ΡῙΓ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 522 574 793 675; baseline -0.007 -2"><span class='ocrx_word' id='word_1_2' title='bbox 522 574 793 675; x_wconf 61' lang='lat'><strong>4520</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 521 729 829 843; baseline -0.013 -43"><span class='ocrx_word' id='word_1_3' title='bbox 521 729 829 843; x_wconf 54' lang='lat' dir='ltr'><strong>K57„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 528 847 763 919; baseline -0.017 -10"><span class='ocrx_word' id='word_1_4' title='bbox 528 855 561 919; x_wconf 74' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 604 854 645 918; x_wconf 60' lang='grc' dir='ltr'><strong><em>ς</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 671 847 763 907; x_wconf 62' lang='lat'><strong>⁶73</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 569 2778 1648 2840">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 569 2778 1648 2840">
+     <span class='ocr_line' id='line_1_5' title="bbox 569 2778 1564 2797; baseline -0.01 0"><span class='ocrx_word' id='word_1_7' title='bbox 569 2778 1564 2797; x_wconf 47' lang='lat' dir='ltr'><strong>mmmmm-„mmmmm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 690 2790 1648 2840; baseline -0.01 0"><span class='ocrx_word' id='word_1_8' title='bbox 690 2816 796 2840; x_wconf 65' lang='lat' dir='ltr'><strong>zuen.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 814 2816 893 2839; x_wconf 69' lang='lat' dir='ltr'><strong>mr.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 914 2815 961 2837; x_wconf 68' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 983 2812 1230 2837; x_wconf 67' lang='lat' dir='ltr'><strong>&#39;nroemrmto</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1249 2812 1283 2835; x_wconf 74' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1303 2811 1331 2834; x_wconf 65' lang='grc' dir='ltr'><strong>ε.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1351 2809 1465 2833; x_wconf 75' lang='lat' dir='ltr'><strong>mun..</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1620 2791 1623 2794; x_wconf 78' lang='grc'>’</span> <span class='ocrx_word' id='word_1_16' title='bbox 1644 2790 1648 2794; x_wconf 69' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1566 0 1954 3231">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1566 0 1954 3231">
+     <span class='ocr_line' id='line_1_7' title="bbox 1566 0 1954 3231; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1566 0 1954 3231; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
